@@ -27,9 +27,10 @@ Here's the rubric criteria along with explanation.
 - **The car is able to drive at least 4.32 miles without incident.** 
 
 Here's an images of 5 Miles and 7 Miles completion without incident
-5 Miles                                                | 7 Miles
--------------------------------------------------------|-----------------------------------------------------
-![5 Miles Completion](/screens/5MinutesCompletion.PNG) | ![7 Miles Completion](/screens/7MilesCompletion.PNG)
+
+| 5 Miles                                                | 7 Miles  |
+| -------------------------------------------------------|----------------------------------------------------- |
+| ![5 Miles Completion](/screens/5MinutesCompletion.PNG) | ![7 Miles Completion](/screens/7MilesCompletion.PNG) |
 
 - **The car drives according to the speed limit**
 
@@ -41,7 +42,8 @@ Here's an images of 5 Miles and 7 Miles completion without incident
    
 - **The car is able to change lanes**
   Here's' an image of lanes changing
-  Lane Changing Left                                   | Lane Changing Right
-  -----------------------------------------------------|--------------------------------------------------
-  ![Lane Changing Left](/screens/LineChanging-Left.PNG)|![Lane Changing Right](/screens/LineChanging-Right.PNG)
+  
+  | Lane Changing Left                                   | Lane Changing Right  |
+  | -----------------------------------------------------|-------------------------------------------------- |
+  | ![Lane Changing Left](/screens/LineChanging-Left.PNG)|![Lane Changing Right](/screens/LineChanging-Right.PNG) |
    
